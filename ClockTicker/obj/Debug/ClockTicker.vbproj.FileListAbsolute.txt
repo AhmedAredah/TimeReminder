@@ -1,0 +1,34 @@
+C:\Users\Ahmed_Sayed\AppData\Local\Temporary Projects\ClockTicker\bin\Debug\ClockTicker.exe
+C:\Users\Ahmed_Sayed\AppData\Local\Temporary Projects\ClockTicker\bin\Debug\ClockTicker.pdb
+C:\Users\Ahmed_Sayed\AppData\Local\Temporary Projects\ClockTicker\bin\Debug\ClockTicker.xml
+C:\Users\Ahmed_Sayed\AppData\Local\Temporary Projects\ClockTicker\obj\Debug\ClockTicker.Form1.resources
+C:\Users\Ahmed_Sayed\AppData\Local\Temporary Projects\ClockTicker\obj\Debug\ClockTicker.Resources.resources
+C:\Users\Ahmed_Sayed\AppData\Local\Temporary Projects\ClockTicker\obj\Debug\ClockTicker.vbproj.GenerateResource.Cache
+C:\Users\Ahmed_Sayed\AppData\Local\Temporary Projects\ClockTicker\obj\Debug\ClockTicker.exe
+C:\Users\Ahmed_Sayed\AppData\Local\Temporary Projects\ClockTicker\obj\Debug\ClockTicker.xml
+C:\Users\Ahmed_Sayed\AppData\Local\Temporary Projects\ClockTicker\obj\Debug\ClockTicker.pdb
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker\ClockTicker\obj\Debug\ClockTicker.exe
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker\ClockTicker\obj\Debug\ClockTicker.xml
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker\ClockTicker\obj\Debug\ClockTicker.pdb
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker\ClockTicker\bin\Debug\ClockTicker.exe
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker\ClockTicker\bin\Debug\ClockTicker.pdb
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker\ClockTicker\bin\Debug\ClockTicker.xml
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker\ClockTicker\obj\Debug\ClockTicker.Form1.resources
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker\ClockTicker\obj\Debug\ClockTicker.Resources.resources
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker\ClockTicker\obj\Debug\ClockTicker.vbproj.GenerateResource.Cache
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker\ClockTicker\obj\Debug\ClockTicker.exe.licenses
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker\ClockTicker\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker\ClockTicker\obj\Debug\ClockTicker.vbproj.ResolveComReference.cache
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker - GUC version\ClockTicker\bin\Debug\ClockTicker.exe.config
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker - GUC version\ClockTicker\bin\Debug\ClockTicker.exe
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker - GUC version\ClockTicker\bin\Debug\ClockTicker.pdb
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker - GUC version\ClockTicker\bin\Debug\ClockTicker.xml
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker - GUC version\ClockTicker\bin\Debug\Interop.SpeechLib.dll
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker - GUC version\ClockTicker\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker - GUC version\ClockTicker\obj\Debug\ClockTicker.vbproj.ResolveComReference.cache
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker - GUC version\ClockTicker\obj\Debug\ClockTicker.Form1.resources
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker - GUC version\ClockTicker\obj\Debug\ClockTicker.Resources.resources
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker - GUC version\ClockTicker\obj\Debug\ClockTicker.vbproj.GenerateResource.Cache
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker - GUC version\ClockTicker\obj\Debug\ClockTicker.exe
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker - GUC version\ClockTicker\obj\Debug\ClockTicker.xml
+C:\Users\Ahmed_Sayed\Documents\Visual Studio 2013\Projects\ClockTicker - GUC version\ClockTicker\obj\Debug\ClockTicker.pdb
